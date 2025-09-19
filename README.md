@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pvssygino?tab=repositories](https://github.com/pvssygino?tab=repositories)
 
-- 📝 I regularly write articles on [hookfunction.blogspot.com/](hookfunction.blogspot.com/)
-
 - 📫 How to reach me **lorenzo.rondinelli48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
